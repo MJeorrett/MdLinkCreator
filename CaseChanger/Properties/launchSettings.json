@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CaseChanger": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Notes on W3C Verifiable Credentials Data Model 03-09-2020\""
+    }
+  }
+}
